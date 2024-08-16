@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "name": "Maria",
+      "age": 30,
+      "id": "737d"
+    },
+    {
+      "name": "Paulo",
+      "age": 30,
+      "id": "8ab1"
+    },
+    {
+      "id": "b741",
+      "name": "Pedro Lucas",
+      "age": "13"
+    },
+    {
+      "id": "4b27",
+      "name": "Pedro Lucas",
+      "age": "13"
+    },
+    {
+      "id": "d1ae",
+      "name": "fulano",
+      "age": "40"
+    },
+    {
+      "id": "8048",
+      "name": "roberto",
+      "age": "35"
+    }
+  ]
+}
