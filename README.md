@@ -1,7 +1,7 @@
-# Unidade-3 - Projeto de Cadastro de usuário com API
+# Projeto de Cadastro de usuário com API
 Tarefa 3 - Disciplina de Desenvolvimento Web II - Curso Técnico de Informática para Internet
 
-Comandos:
+Comandos a serem  executados:
 ```bash
 npm install nodemon express express-handlebars
 ```
@@ -22,5 +22,8 @@ npm install json-server
 json-server --watch db.json
 ```
 
+```bash
+nodemon server.js
+```
 
 
