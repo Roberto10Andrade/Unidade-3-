@@ -18,6 +18,9 @@ npm install body-parser
 npm install json-server
 ```
 
+```bash
+json-server --watch db.json
+```
 
 
 
