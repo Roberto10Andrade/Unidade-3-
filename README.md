@@ -5,9 +5,13 @@ Comandos:
 
 ```bash
 npm install nodemon express express-handlebars
+```bash
 npm install express-session
+```bash
 npm install body-parser
+```bash
 npm install json-server
+```bash
 npm install express-handlebars
 
 
