@@ -2,8 +2,6 @@
 Tarefa 3 - Disciplina de Desenvolvimento Web II - Curso Técnico de Informática para Internet
 
 Comandos:
-
-comandos:
 ```bash
 npm install nodemon express express-handlebars
 npm install express-session
